@@ -35,3 +35,4 @@ while flag:
         print("\nYou haven't life for playing game ☹️\n"
               "Your score:", score)
  
+ 
